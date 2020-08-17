@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+canvas {
+  display: block;
+}
+
+.main-input{
+  padding: 5px;
+  border: 5px solid #793dd8;
+  position: absolute;
+  left: 50%;
+  top: 20px;
+}
